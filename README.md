@@ -1,1 +1,1 @@
-# prova-do-kaua-
+body{text-align: center;}
